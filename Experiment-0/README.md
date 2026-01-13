@@ -20,5 +20,3 @@ In this experiment, you will:
 - Write and execute the core functions required for the task.  
 - Test the code to ensure correct behavior and fix errors as needed.
 
-## 📂 Project Structure
-
