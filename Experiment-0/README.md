@@ -1,4 +1,4 @@
-# Experiment-0: Basic Setup & Core Functions
+# Experiment-1: Basic Setup & Core Functions
 
 ## 🚀 Introduction
 
