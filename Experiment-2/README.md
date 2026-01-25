@@ -1,16 +1,27 @@
-# React + Vite
+# Experiment-2: UI Development Using Component Libraries
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Introduction
 
-Currently, two official plugins are available:
+This experiment focuses on designing and developing a user interface using modern component libraries. It emphasizes reusable components, styling consistency, and efficient project structure in a frontend development environment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Learning Outcomes
 
-## React Compiler
+After completing this experiment, you will be able to:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Understand the use of component-based architecture in frontend development.  
+2. Implement UI components using libraries such as Material UI or Bootstrap.  
+3. Integrate icons, buttons, and interactive elements into a React application.  
+4. Debug and resolve common dependency and import issues.  
+5. Test UI components to ensure proper rendering and functionality.  
 
-## Expanding the ESLint configuration
+## 🛠️ Description
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+In this experiment, you will:
+
+- Set up a frontend project using modern tooling (Vite + React).  
+- Install and configure UI component libraries.  
+- Create reusable and styled UI components.  
+- Handle component imports and resolve runtime errors.  
+
+## 📂 Project Structure
+
