@@ -1,18 +1,30 @@
-# React + Vite
+# Experiment-3: Implement Routing in Single Page Application (SPA)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Introduction
 
-Currently, two official plugins are available:
+This experiment focuses on implementing client-side routing in a Single Page Application (SPA) using **React Router DOM v6**. It demonstrates how modern web applications achieve multi-page navigation without full page reloads, resulting in faster performance and a smoother user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Learning Outcomes
 
-## React Compiler
+After completing this experiment, you will be able to:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+1. Understand the concept of client-side routing in Single Page Applications.  
+2. Install and configure the React Router DOM library.  
+3. Implement basic routing with multiple pages.  
+4. Create dynamic routes using URL parameters.  
+5. Design nested routes using layout components.  
+6. Perform programmatic navigation using hooks.  
+7. Implement protected routes with authentication logic.  
+8. Handle invalid routes using a 404 Not Found page.  
 
-Note: This will impact Vite dev & build performances.
+## 🛠️ Description
 
-## Expanding the ESLint configuration
+In this experiment, you will:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Compare client-side and server-side routing mechanisms.  
+- Configure routing using `BrowserRouter`, `Routes`, and `Route`.  
+- Navigate between pages using `Link` and `NavLink`.  
+- Implement dynamic routing with `useParams`.  
+- Apply nested routing using `Outlet`.  
+- Secure routes using authentication guards.  
+- Handle unknown URLs gracefully using wildcard routes.  
