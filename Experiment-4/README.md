@@ -1,5 +1,3 @@
-This repo provides small interactive counters so you can compare how each approach shares and updates state.
-
 ## ✨ Highlights
 - Clear, side-by-side examples: Local counters, Context-based counters, and Redux counters
 - Built with **React + Vite** for a fast dev experience
