@@ -32,7 +32,3 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## Notes
-- This project is intentionally minimal and focused on teaching state patterns — feel free to experiment by adding new counters or swapping implementations.
-- If you want a theme toggle or additional UI polish, tell me and I can add it. 💬
