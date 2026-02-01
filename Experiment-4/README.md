@@ -32,3 +32,17 @@ npm run dev
 ```bash
 npm run build
 ```
+Implement State Management in Single Page Applications (SPA)
+
+After successfully completing this experiment, the learner is able to:
+
+Understand the need for state management in modern Single Page Applications and identify common issues such as prop drilling and tightly coupled components. 
+
+
+Differentiate between local state, Context API, and Redux Toolkit, and select an appropriate state management solution based on application complexity and update frequency. 
+
+
+Implement React Context API to manage simple global state such as user authentication, theme toggling, and preferences without introducing external dependencies. 
+
+
+Design and integrate Redux Toolkit for complex application state by creating slices, reducers, actions, and configuring a centralized store.
