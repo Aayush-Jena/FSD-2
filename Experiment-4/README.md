@@ -1,10 +1,3 @@
-# Experiment 4 — State Management (React)
-
-A compact demonstration of three state-management approaches in React:
-- **Local State** with `useState` (component-scoped)
-- **Context API** for simple global state via a provider
-- **Redux** for predictable, scalable state via a single store
-
 This repo provides small interactive counters so you can compare how each approach shares and updates state.
 
 ## ✨ Highlights
