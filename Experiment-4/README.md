@@ -1,3 +1,5 @@
+# Experiment 4 — State Management (React)
+
 ## ✨ Highlights
 - Clear, side-by-side examples: Local counters, Context-based counters, and Redux counters
 - Built with **React + Vite** for a fast dev experience
@@ -43,4 +45,8 @@ Differentiate between local state, Context API, and Redux Toolkit, and select an
 Implement React Context API to manage simple global state such as user authentication, theme toggling, and preferences without introducing external dependencies. 
 
 
+<<<<<<< HEAD
 Design and integrate Redux Toolkit for complex application state by creating slices, reducers, actions, and configuring a centralized store.
+=======
+Design and integrate Redux Toolkit for complex application state by creating slices, reducers, actions, and configuring a centralized store.
+>>>>>>> 9f6dfcb (feat: Add Experiment-5 and Experiment-6 projects)
