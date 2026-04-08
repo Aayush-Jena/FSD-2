@@ -21,8 +21,8 @@ users = {
         "password": "admin123",
         "role": "admin"
     },
-    "ankush": {
-        "password": "ankushkr9878",
+    "aayush": {
+        "password": "@Aayush143",
         "role": "user"
     }
 }
